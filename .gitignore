@@ -1,0 +1,9 @@
+# Fichiers locaux et secrets
+.env
+*.log
+
+# Fichiers temporaires des éditeurs
+.vscode/
+.idea/
+*.tmp
+~$*
